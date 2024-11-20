@@ -25,7 +25,7 @@ pip install pymysql pandas openpyxl matplotlib
 Creación de la Base de Datos y la Tabla
 Abre tu cliente MySQL (MySQL Workbench o consola MySQL).
 
-Ejecuta el archivo ENCUESTAS.SQL para crear la base de datos y la tabla:
+Ejecuta el archivo ENCUESTAS.txt para crear la base de datos y la tabla:
 
 Asegúrate de que MySQL esté ejecutándose y toma nota de tus credenciales de conexión (host, usuario, contraseña y nombre de la base de datos).
 
